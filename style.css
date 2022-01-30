@@ -1,0 +1,18 @@
+form {
+  background-color: rgba(204, 140, 22, 0.774);
+  height: 600px;
+  width: 500px;
+  border-radius: 50px;
+}
+h1{
+  color: rgb(10, 5, 5);
+}
+body{
+  background-color: rgb(4, 7, 0);
+}
+#solin{
+  background-color: aqua;
+}
+input:hover{
+  background-color: rgb(179, 255, 0);
+}
